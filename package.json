@@ -1,6 +1,6 @@
 {
   "name": "com.unity.microlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "MicroLightSDK",
   "description": "This Package contains the necessary components required to use the MicroLight SDK on desktop plaform.By using this package,you will be able to deploy and run your appllication on MicroLight supported devices.",
   "unity": "2018.4",
