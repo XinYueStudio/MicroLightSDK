@@ -1,0 +1,16 @@
+{
+    "name": "com.unity.microlight.editor",
+    "references": [
+        "com.unity.microlight"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
