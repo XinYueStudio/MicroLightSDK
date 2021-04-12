@@ -7,7 +7,7 @@
   
  	2．Windows10 SDK （所有）
   
-    https://developer.microsoft.com/zh-cn/windows/downloads/sdk-archive/
+ https://developer.microsoft.com/zh-cn/windows/downloads/sdk-archive/
 
  	3．DXSDK_Jun10.exe
   
