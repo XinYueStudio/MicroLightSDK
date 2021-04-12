@@ -6,15 +6,15 @@ MicroLightSDK for Unity
 MicroLight Technologies Inc.
 
 一、运行环境要求
- 1．Widows7/Windows10  64Bit
- 2．Windows10 SDK （所有）
+ 	1．Widows7/Windows10  64Bit
+ 	2．Windows10 SDK （所有）
 https://developer.microsoft.com/zh-cn/windows/downloads/sdk-archive/
- 3．DXSDK_Jun10.exe
- 4．适用于 Windows 7 和 .NET Framework 4 的 Windows SDK
- 5．vc_redist.x86.exe 与vc_redist.x64.exe
- 6．Nvidia 1060ti 以上的显卡
- 7．将所有的显示监视器都插到显卡上防止集成显卡性能不足拖累软件运行帧率
- 8．Unity2018.4.2f1 或以上
+ 	3．DXSDK_Jun10.exe
+ 	4．适用于 Windows 7 和 .NET Framework 4 的 Windows SDK
+ 	5．vc_redist.x86.exe 与vc_redist.x64.exe
+ 	6．Nvidia 1060ti 以上的显卡
+ 	7．将所有的显示监视器都插到显卡上防止集成显卡性能不足拖累软件运行帧率
+ 	8．Unity2018.4.2f1 或以上
 二、SDK导入
  1．新建Unity 3D项目（测试）
 ![图片1](https://user-images.githubusercontent.com/15990821/114347549-af660d80-9b97-11eb-9cc3-7098abf6c95c.png)
