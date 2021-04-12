@@ -1,12 +1,6 @@
 
 ![图片1](https://user-images.githubusercontent.com/15990821/114347426-80e83280-9b97-11eb-8a95-457ae862c463.png)
 
-                                             MicroLightSDK for Unity
-
-                                                 Version 1.0.0
- 
-                                          MicroLight Technologies Inc.
-
 一、运行环境要求
 
  	1．Widows7/Windows10  64Bit
@@ -79,11 +73,11 @@
 
 （1）MicroLightRender  （默认）
 
-  进程画面传输，生成模拟器窗口
+    进程画面传输，生成模拟器窗口
 
 （2）UnityRender （仅LR3D）
 
-   线程内部画面传输，生成模拟器窗口
+     线程内部画面传输，生成模拟器窗口
 
 （3）UnityCoverRender （不需扩展屏时，仅LR3D）
 
