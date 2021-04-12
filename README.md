@@ -1,4 +1,6 @@
 
+![图片1](https://user-images.githubusercontent.com/15990821/114347426-80e83280-9b97-11eb-8a95-457ae862c463.png)
+
 MicroLightSDK for Unity
  Version 1.0.0
 MicroLight Technologies Inc.
@@ -15,19 +17,21 @@ https://developer.microsoft.com/zh-cn/windows/downloads/sdk-archive/
 8．Unity2018.4.2f1 或以上
 二、SDK导入
 1．新建Unity 3D项目（测试）
-
+![图片1](https://user-images.githubusercontent.com/15990821/114347549-af660d80-9b97-11eb-9cc3-7098abf6c95c.png)
 2．导入SDK
-
+![图片2](https://user-images.githubusercontent.com/15990821/114347561-b2f99480-9b97-11eb-84bc-0d673948d365.png)
 3．项目文件目录
+![图片3](https://user-images.githubusercontent.com/15990821/114347585-bd1b9300-9b97-11eb-89d7-f273de5dcb74.png)
 
 
 
 4．项目设置
 (1)运行平台 Window  x86_64
-
+![图片4](https://user-images.githubusercontent.com/15990821/114347594-bf7ded00-9b97-11eb-80bf-af2efacf255a.png)
 (2)渲染颜色空间设置
-
+![图片5](https://user-images.githubusercontent.com/15990821/114347600-c278dd80-9b97-11eb-9b2b-a3a529948abc.png)
 (3)打包后台运行设置
+![图片6](https://user-images.githubusercontent.com/15990821/114347612-c99feb80-9b97-11eb-9883-ef5e18de7087.png)
 
 三、APP授权
 1．默认授权
