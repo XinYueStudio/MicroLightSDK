@@ -100,7 +100,7 @@ namespace MicroLight
         [SerializeField] [HideInInspector] Vector3 savedUp;
         [SerializeField] [HideInInspector] Vector2 savedRectSize;
         [SerializeField] [HideInInspector] Color savedColor;
-        [SerializeField] [HideInInspector] Vector2 savedTextUV0;
+        [SerializeField] [HideInInspector] Vector4 savedTextUV0;
 
         List<UIVertex> tesselatedVerts;
 
@@ -495,7 +495,7 @@ namespace MicroLight
             };
 
             //2. interpolate all the vertex properties using weighting factors
-            Vector2 uv0 = Vector2.zero, uv1 = Vector2.zero;
+            Vector4 uv0 = Vector2.zero, uv1 = Vector2.zero;
             Vector3 pos = Vector3.zero;
 
             for (int i = 0; i < 4; i++)

@@ -102,7 +102,7 @@ namespace MicroLight
 
       
         // Update is called once per frame
-        void OnPreRender()
+        void Update()
         {
           
 

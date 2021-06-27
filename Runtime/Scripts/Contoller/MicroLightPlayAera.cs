@@ -404,7 +404,7 @@ namespace MicroLight
                     return GetCachedPrimitiveMesh(ref _unityQuadMesh, primitiveType);
                     break;
                 default:
-                    throw new ArgumentOutOfRangeException(nameof(primitiveType), primitiveType, null);
+                    throw new ArgumentOutOfRangeException(primitiveType.ToString(), primitiveType, null);
             }
         }
 
@@ -447,7 +447,7 @@ namespace MicroLight
                     return "Quad.fbx";
                     break;
                 default:
-                    throw new ArgumentOutOfRangeException(nameof(primitiveType), primitiveType, null);
+                    throw new ArgumentOutOfRangeException(primitiveType.ToString(), primitiveType, null);
             }
         }
 

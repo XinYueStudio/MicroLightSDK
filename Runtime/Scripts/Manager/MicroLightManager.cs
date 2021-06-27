@@ -126,7 +126,7 @@ namespace MicroLight
             {
                 if (mTracker == IntPtr.Zero)
                 {
-                    string dllfilepath = Application.dataPath + "\\Plugins\\ImageDll.dll";
+                    string dllfilepath = Application.dataPath + "\\Plugins\\x86_64\\ImageDll.dll";
                     if (Application.isEditor)
                     {
                         dllfilepath = Application.dataPath + "\\MicroLightSDK\\Runtime\\Plugins\\x86_64\\ImageDll.dll";
